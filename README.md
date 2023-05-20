@@ -1,2 +1,2 @@
 # NumericalAnalysis
-论文重现作业
+论文复现作业
